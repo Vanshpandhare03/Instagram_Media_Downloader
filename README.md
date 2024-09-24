@@ -10,5 +10,4 @@ python3 Instagram_Media_Downloader.py
 ```
 ![Screenshot 2024-09-24 200946](https://github.com/user-attachments/assets/5a9ff769-d2c4-4699-9893-2025f28ded7e)
 ![Screenshot 2024-09-24 201007](https://github.com/user-attachments/assets/cde4d5bc-8258-4177-aa06-f3b4425ae45c)
-![Screenshot 2024-09-21 174441](https://github.com/user-attachments/assets/c7c0ef9d-727f-4ef4-8b39-6a7f7af11cdf)
 ![Screenshot 2024-09-24 201019](https://github.com/user-attachments/assets/d860d5bc-c305-4645-8ea6-975b93cc5bee)
